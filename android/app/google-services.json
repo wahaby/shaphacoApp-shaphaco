@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178442832842",
+    "project_id": "shaphacoapp",
+    "storage_bucket": "shaphacoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178442832842:android:4f6f7a8368ca66b301dd33",
+        "android_client_info": {
+          "package_name": "com.example.shaphaco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178442832842-sgtpaqvmbh8tv0gf87pa6f0mvrscouor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEBmzNH7bdE9ZQx0DOMstzyc7jszoo-Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178442832842-sgtpaqvmbh8tv0gf87pa6f0mvrscouor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
